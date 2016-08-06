@@ -1,0 +1,7 @@
+oceansize: 10
+startx: 0
+starty: 0
+popsize: 500
+generations: 2000
+mutation_chance: 100
+data_path: data/
