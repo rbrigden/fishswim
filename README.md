@@ -1,4 +1,3 @@
 ## fishswim
 
-After reading Rick Nostrom's Superintelligence, I have been taken by the idea of
-genetic algorithms. Fishswim is a simple genetic algorithm
+ Fishswim is an initial attempt at a fun genetic algorithm. The premise is simple -- train fish to "swim" from point A to B in the shortest distance while minimizing the number of seaweed patches it must cross en route.
